@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/hkdnet/pebble-health-export-receiver",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": []
+}
